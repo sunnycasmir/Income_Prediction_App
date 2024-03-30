@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/01fbb2d7baf848fa92c893db06158993/artifacts
+end_time: 1711526537840
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 01fbb2d7baf848fa92c893db06158993
+run_name: Naive Bayes
+run_uuid: 01fbb2d7baf848fa92c893db06158993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526537397
+status: 3
+tags: []
+user_id: casmi

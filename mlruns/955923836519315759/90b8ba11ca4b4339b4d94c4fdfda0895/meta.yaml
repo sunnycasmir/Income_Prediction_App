@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/90b8ba11ca4b4339b4d94c4fdfda0895/artifacts
+end_time: 1711526541906
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 90b8ba11ca4b4339b4d94c4fdfda0895
+run_name: Decision Tree Classifier
+run_uuid: 90b8ba11ca4b4339b4d94c4fdfda0895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526541351
+status: 3
+tags: []
+user_id: casmi

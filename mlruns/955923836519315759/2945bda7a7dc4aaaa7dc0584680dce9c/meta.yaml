@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/2945bda7a7dc4aaaa7dc0584680dce9c/artifacts
+end_time: 1711527160044
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 2945bda7a7dc4aaaa7dc0584680dce9c
+run_name: Ada Boost Classifier
+run_uuid: 2945bda7a7dc4aaaa7dc0584680dce9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527153017
+status: 3
+tags: []
+user_id: casmi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/68f59d3441e648c08fcd3a4b151fd4e9/artifacts
+end_time: 1711527999099
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 68f59d3441e648c08fcd3a4b151fd4e9
+run_name: Dummy Classifier
+run_uuid: 68f59d3441e648c08fcd3a4b151fd4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527998381
+status: 3
+tags: []
+user_id: casmi

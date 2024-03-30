@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/1fe684ba553947d885fca8063879197f/artifacts
+end_time: 1711526540579
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 1fe684ba553947d885fca8063879197f
+run_name: Extra Trees Classifier
+run_uuid: 1fe684ba553947d885fca8063879197f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526540101
+status: 3
+tags: []
+user_id: casmi

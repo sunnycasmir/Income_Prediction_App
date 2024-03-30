@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/b7411c6abe0c4412a2a21d3718e6b0f7/artifacts
+end_time: 1711527990660
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: b7411c6abe0c4412a2a21d3718e6b0f7
+run_name: Random Forest Classifier
+run_uuid: b7411c6abe0c4412a2a21d3718e6b0f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527989581
+status: 3
+tags: []
+user_id: casmi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/9d57007b6fc24091be58d661ace28dda/artifacts
+end_time: 1711526537317
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 9d57007b6fc24091be58d661ace28dda
+run_name: Logistic Regression
+run_uuid: 9d57007b6fc24091be58d661ace28dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526536781
+status: 3
+tags: []
+user_id: casmi

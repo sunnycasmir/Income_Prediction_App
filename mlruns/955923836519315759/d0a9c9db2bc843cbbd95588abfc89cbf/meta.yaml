@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/d0a9c9db2bc843cbbd95588abfc89cbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: d0a9c9db2bc843cbbd95588abfc89cbf
+run_name: Session Initialized 7e33
+run_uuid: d0a9c9db2bc843cbbd95588abfc89cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527200959
+status: 1
+tags: []
+user_id: casmi

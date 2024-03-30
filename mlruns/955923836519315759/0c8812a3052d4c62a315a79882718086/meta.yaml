@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/0c8812a3052d4c62a315a79882718086/artifacts
+end_time: 1711528540389
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 0c8812a3052d4c62a315a79882718086
+run_name: Gradient Boosting Classifier
+run_uuid: 0c8812a3052d4c62a315a79882718086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711528532747
+status: 3
+tags: []
+user_id: casmi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/c6d6080cc80e47b08d7eaa07ecd5a015/artifacts
+end_time: 1711527994707
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: c6d6080cc80e47b08d7eaa07ecd5a015
+run_name: Linear Discriminant Analysis
+run_uuid: c6d6080cc80e47b08d7eaa07ecd5a015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711527993985
+status: 3
+tags: []
+user_id: casmi

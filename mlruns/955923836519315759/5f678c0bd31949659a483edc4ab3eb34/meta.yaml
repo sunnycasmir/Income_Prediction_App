@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/5f678c0bd31949659a483edc4ab3eb34/artifacts
+end_time: 1711526542505
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 5f678c0bd31949659a483edc4ab3eb34
+run_name: Quadratic Discriminant Analysis
+run_uuid: 5f678c0bd31949659a483edc4ab3eb34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711526542020
+status: 3
+tags: []
+user_id: casmi

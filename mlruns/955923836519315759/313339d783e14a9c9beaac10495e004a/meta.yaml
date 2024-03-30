@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/casmi/Desktop/MLOPs/who_data/mlruns/955923836519315759/313339d783e14a9c9beaac10495e004a/artifacts
+end_time: 1711528176253
+entry_point_name: ''
+experiment_id: '955923836519315759'
+lifecycle_stage: active
+run_id: 313339d783e14a9c9beaac10495e004a
+run_name: Light Gradient Boosting Machine
+run_uuid: 313339d783e14a9c9beaac10495e004a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711528172564
+status: 3
+tags: []
+user_id: casmi
