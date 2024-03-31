@@ -23,11 +23,11 @@ num_features = features.select_dtypes(include = 'number').columns.tolist()
 cat_features = features.select_dtypes(include = 'object').columns.tolist()
 
 input_fields = {}
-for feature in num_features:
+for feature in num_features: #This allows users to select or adjust numerical values
     input_fields[feature] = st.sidebar.slider(f'select{feature}',features[feature].min(),
                                                 features[feature].max(), 0)
 
-for feature in cat_features:
+for feature in cat_features: #This allows users to select or adjust categorical values
     input_fields[feature] = st.sidebar.selectbox(f'select{feature}',features[feature].unique()) 
 
 #Create a dataframe for the input
@@ -38,8 +38,8 @@ income_group = ['<50K', '>50K']
 if st.sidebar.button('Predict'):
     prediction = predict_model(model, data = user_input, raw_score=True)
     st.write(prediction)
-    prediction_label = prediction['prediction_label'].iloc[0]
-    st.write(f'The Predicted Income Group is: {income_group[prediction_label]}')
+    predict_label = prediction['predict_label'].iloc[0]
+    st.write(f'The Predicted Income Group is: {income_group[predict_label]}')
 
 
 
